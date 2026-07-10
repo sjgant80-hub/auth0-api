@@ -1,18 +1,19 @@
-# auth0-api
+# auth0 API
 
-Sovereign HTTP proxy for **Auth0** · exposes SDK methods over REST.
+> Sovereign wrapper for target · real bindings
 
-## Endpoints
-- `GET /` — metadata + available methods
-- `GET /health` — health check
-- `POST /call/:method` — invoke SDK method with JSON body as params
+## Install
 
-## Env
-`AUTH0_API_KEY` required.
-
-## Run
-```bash
-npm install && npm start
+```
+npm install @ai-native-solutions/auth0-api
 ```
 
-MIT · AI-Native Solutions estate.
+## Links
+
+- FallMarket listing: https://sjgant80-hub.github.io/fallmarket/listing.html?id=auth0-api
+- Source: https://github.com/sjgant80-hub/auth0-api
+
+
+## License
+
+MIT · Copyright 2026 AI-Native Solutions · https://ai-nativesolutions.com
